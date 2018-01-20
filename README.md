@@ -6,3 +6,4 @@ Managing installed software/services via Salt
 ## TODO
 Improve Docker install service
 * adds duplicate line to /etc/apt/sources.list
+* parameterize services; consul, vault, terraform, etc...
